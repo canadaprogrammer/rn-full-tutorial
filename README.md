@@ -105,7 +105,7 @@
 
   - `App.js` is working for the app
 
-### eject Expo
+### Eject Expo
 
 - ```
   cd first-app
@@ -119,3 +119,11 @@
   - What would you like your iOS bundle identifier to be? - firstapp
 
 - `npm react-native run-android`
+
+## Configure VS Code
+
+- `Ctrl + =` : Zoom in
+
+- `Ctrl + -` : Zoom out
+
+- `Ctrl + k t` : Change color theme
